@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Vijay Mahadeven 👋
 
-<!--
-**Vijaymahadevan97/Vijaymahadevan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MERN stack full-stack developer based in [Your Location]. I'm passionate about coding and love to create efficient and scalable web applications.
 
-Here are some ideas to get you started:
+## 🔭 Currently working on:
+I'm currently working on an ecommerce project, building a full-stack web application from scratch using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+I'm always learning new things in web development. Currently, I'm focusing on improving my skills in React.js and Node.js.
+
+## 💬 Ask me about:
+- React.js
+- Node.js
+- MongoDB
+- JavaScript
+- HTML/CSS
+
+## 📫 How to reach me:
+- [Email](mailto:vijaymahadeven@email.com)
+- [LinkedIn](https://www.linkedin.com/in/vijaymahadeven)
+- [Twitter](https://twitter.com/VijayMahadeven)
+
+## 🧑‍💻 My Github Stats:
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaymahadeven97&show_icons=true&theme=radical)
+
+## 🌟 My Top Projects:
+- [Project 1](https://github.com/vijaymahadeven/project1)
+- [Project 2](https://github.com/vijaymahadeven/project2)
+
+Thanks for visiting my profile!
