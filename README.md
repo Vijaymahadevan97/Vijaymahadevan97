@@ -20,8 +20,6 @@ I'm always learning new things in web development. Currently, I'm focusing on im
 - [LinkedIn](https://www.linkedin.com/in/vijaymahadeven)
 - [Twitter](https://twitter.com/VijayMahadeven)
 
-## 🧑‍💻 My Github Stats:
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijaymahadeven97&show_icons=true&theme=radical)
 
 ## 🌟 My Top Projects:
 - [Project 1](https://github.com/vijaymahadeven/project1)
