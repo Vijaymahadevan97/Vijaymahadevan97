@@ -1,6 +1,6 @@
 # Hi there, I'm Vijay Mahadeven 👋
 
-I'm a MERN stack full-stack developer based in [Your Location]. I'm passionate about coding and love to create efficient and scalable web applications.
+I'm a MERN stack full-stack developer based in Ernakulam. I'm passionate about coding and love to create efficient and scalable web applications.
 
 ## 🔭 Currently working on:
 I'm currently working on an ecommerce project, building a full-stack web application from scratch using the MERN stack.
